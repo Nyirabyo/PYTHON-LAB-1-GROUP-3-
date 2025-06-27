@@ -10,7 +10,8 @@ Member 6: MUNYEMANA Honore 25594
 
 
 Project Overview:
-This project is a Python-based console application designed to demonstrate practical programming skills in student information management, palindrome checking, and text processing. The project is structured into three separate solutions, each addressing a specific task.
+This project is a Python-based console application designed to demonstrate practical programming skills in student information management, palindrome checking, and text processing. 
+The project is structured into three separate solutions, each addressing a specific task.
 
 Activities and Solutions:
 Answer 1: Student Management System
